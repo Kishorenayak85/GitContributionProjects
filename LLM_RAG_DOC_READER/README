@@ -1,0 +1,23 @@
+1) create a dir --> mkdir chainlit_rag
+2) Create .env File with the Following Content Inside the Folder -->
+[cohere]
+api_key = Your COHERE API KEY1
+
+You can obtain the API key by registering yourself at: https://dashboard.cohere.com/api-keys
+
+example --> new text document(sample given)
+3) Download the model file from the link and save it to the current working directory, i.e., inside the chainlit_rag folder.
+https://huggingface.co/TheBloke/zephyr-7B-beta-GGUF/blob/main/zephyr-7b-beta.Q4_K_M.gguf
+
+
+To run the script :
+Prior to run the prog change line 68 to your local file.
+with open(r"C:\Users\kisho\OneDrive\Desktop\LEARN\Enviseer\Document_Reader_Dev\HR_Policy_Manual_2023.pdf", 'rb') as file:
+
+1) Go to the folder >> chainlit_rag
+2) open terminal ( from that folder)
+3) chainlit run app.py
+
+it'll open a browser.
+then open any doucment(pdf) from your local(max size 2 mb).
+once done; you can ask any question
