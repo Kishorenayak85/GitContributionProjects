@@ -1,0 +1,12 @@
+Step 1: Install Required Libraries
+You’ll need to install some Python libraries if you haven’t already:
+
+pip install nltk pdfminer.six
+
+Step 2: Download NLTK Data
+You need to download some data for nltk:
+
+Extracting Text from Resume: The code uses pdfminer.six to extract text from a PDF resume.
+Tokenization and Cleaning: Text is cleaned and tokenized using NLTK. Stopwords are removed to focus on meaningful words.
+Skill Extraction: This is a basic implementation where specific skills are hardcoded and matched against the resume content.
+Resume Scanning: The resume is scanned against a job description, and matching words are identified.
