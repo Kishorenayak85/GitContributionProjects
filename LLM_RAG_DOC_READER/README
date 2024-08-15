@@ -18,6 +18,7 @@ with open(r"C:\Users\kisho\OneDrive\Desktop\LEARN\Enviseer\Document_Reader_Dev\H
 2) open terminal ( from that folder)
 3) chainlit run app.py
 
+
 it'll open a browser.
 then open any doucment(pdf) from your local(max size 2 mb).
 once done; you can ask any question
