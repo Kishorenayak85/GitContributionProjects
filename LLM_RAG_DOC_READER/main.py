@@ -27,7 +27,6 @@ os.environ["COHERE_API_KEY"] = "Your_api_key"
 
 text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000,chunk_overlap=100)
 
-
 system_template = """Use the following pieces of context to answer the user's question.
 If you don't know the answer, just say that you don't know, don't try to make up an answer.
 ALWAYS return a "SOURCES" part in your answer.
