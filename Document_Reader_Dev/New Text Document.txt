@@ -1,0 +1,2 @@
+[cohere]
+api_key = IIxMEfPgsRFI4oUOlyukH2bzu4fdkprzYap9Qnn5

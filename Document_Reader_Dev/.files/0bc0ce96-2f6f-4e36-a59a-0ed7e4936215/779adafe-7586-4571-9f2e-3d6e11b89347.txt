@@ -1,0 +1,15 @@
+n apply leave, view leave history, cancel the applied leave, 
+check the leave balance through ESS. Any action on leave will go to the supervisor for approval.
+iii. Time Management – Employees can view their in-time/out-time. In case the employees come 
+late to the office, for every third instance in a month, half CL will be deducted. In case the CL 
+balance is zero, Earned Leave will be deducted. This can be regularised by the HR Department 
+based upon the approval from the Head of the Department.   
+iv. Payment – Through ESS, employees can view their monthly salary slip.
+The employees with reportees under them, will be given access to the Manager Self Service (MSS). 
+Through MSS, the employees can approve/reject the request of their reportees. CHAPTER 19
+ENTERPRISE RESOURCE PLANNING  
+(ERP)163
+IIMA HR Policy Manual 2023
+ST ATEMENT
+The Institute is committed to providing a productive and conducive work environment where 
+grievances are dealt fairly and promptly. It aims to facilitate a
